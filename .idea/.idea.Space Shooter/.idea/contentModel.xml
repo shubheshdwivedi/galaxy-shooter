@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Shubhesh\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Shubhesh\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Space Shooter.-1688859712.00" t="ExcludeRecursive" />
+    <e p="D:\Creation Labs\Unity\Space Shooter" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Game" t="Include">
+          <e p="Materials" t="Include">
+            <e p="Shaders" t="Include">
+              <e p="Galaxy.shader" t="Include" />
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="EnemyAI.cs" t="Include" />
+            <e p="ExplosionEffect.cs" t="Include" />
+            <e p="GameManager.cs" t="Include" />
+            <e p="Laser.cs" t="Include" />
+            <e p="Player.cs" t="Include" />
+            <e p="PlayerAnimation.cs" t="Include" />
+            <e p="PowerUp.cs" t="Include" />
+            <e p="SpawnManager.cs" t="Include" />
+            <e p="UIManager.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Space Shooter.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
